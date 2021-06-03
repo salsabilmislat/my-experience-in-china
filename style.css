@@ -1,0 +1,44 @@
+
+header {
+  background-color: #FF6457;
+  width: 100%;
+
+  
+
+}
+nav li {
+display: inline;
+margin: 20px;
+padding-left : 30px;
+border: 40px;
+
+}
+ 
+main{
+  text-align: center;
+  margin-top: 20px
+}
+li a {
+  color: black;
+  text-decoration: none;
+ 
+}
+
+footer{
+  text-align: center;
+  color: #fff;
+  background-color: black;
+  height: 20px;
+  font-size: 10px;
+  padding-top: 5px
+}
+h2 {
+  color: #FF6457;
+}
+h1 {
+  font-size: 20 0cm;
+  color: #FF6457
+}
+p {
+  font: italic small-caps bold 12px/30px Georgia, serif;
+}
